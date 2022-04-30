@@ -59,11 +59,50 @@ color: aliceblue;
     left: 12%;
     top: 52%;
 }
-.vonal{
+.vonal1{
     height: 3px;
-    width: 80%;
+    width: 33%;
     margin-left: 10%;
     border-top: 5px;
+    border-top-color: #dd572e;
+    background-color: #b6b6b6;
+}
+.left{
+
+margin-top: 50px;
+margin-left: 10%;
+height: 500px;
+width: 40%;
+}
+#left_kep{
+   overflow:auto;
+   height: 500px;
+   width: 80%;
+   border-radius: 10px;
+   
+}
+.right{
+    
+    margin:10px;
+    width: 40%;
+    height: 500px;
+    position:absolute;
+    right: -160px;
+    top: 79%;
+    margin-right: 21%;
+}
+.right_text{
+    color: #d8cece;
+    margin-top:20% ;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 300px;
+}
+
+.vonal2{
+    height: 3px;
+    width: 50%;
+    margin-left: 43%;
     border-top-color: #dd572e;
     background-color: #b6b6b6;
 }
