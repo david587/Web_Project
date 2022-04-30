@@ -27,11 +27,12 @@ body{
     width: 60%;
   height: 20%;
   padding: 200px;
-  background-color: #4b6b8b;
+  
 }
 .div1_font{
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: 20px;
+color: aliceblue;
 }
 #img1{
     width: 200px;
@@ -43,7 +44,7 @@ font-size: 20px;
     width: 40%;
     height: 10%;
     padding: 200px;
-    background-color: #3480cc;
+    
     position: absolute;
     left: 50%;
     top: 10%;
@@ -57,5 +58,12 @@ font-size: 20px;
     position: absolute;
     left: 12%;
     top: 52%;
-    
+}
+.vonal{
+    height: 3px;
+    width: 80%;
+    margin-left: 10%;
+    border-top: 5px;
+    border-top-color: #dd572e;
+    background-color: #b6b6b6;
 }
